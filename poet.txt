@@ -7,3 +7,6 @@ blue
 cirlce
 ellipse
 rantangle
+hard 
+polished 
+soft
