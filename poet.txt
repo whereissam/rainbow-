@@ -2,6 +2,7 @@ rainbow rainbow little color
 yellow 
 red 
 orange 
+pink
 green
 blue
 cirlce
