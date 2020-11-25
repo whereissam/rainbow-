@@ -4,3 +4,6 @@ red
 orange 
 green
 blue
+cirlce
+ellipse
+rantangle
